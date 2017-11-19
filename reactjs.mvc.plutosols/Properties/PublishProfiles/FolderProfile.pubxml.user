@@ -264,6 +264,186 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Global.asax">
       <publishTime>11/19/2017 13:16:40</publishTime>
     </File>
+    <File Include="PlutoSolutions/css/font-awesome.min.css">
+      <publishTime>11/19/2017 17:59:24</publishTime>
+    </File>
+    <File Include="PlutoSolutions/css/main.css">
+      <publishTime>11/19/2017 17:59:24</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/browser.min.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react-dom-server.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react-dom-server.min.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react-dom.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react-dom.min.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react-with-addons.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react-with-addons.min.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/js/react.min.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React01-Simple.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React02-CreateComponent.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React03-OneMainParentElement.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React04-Props.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React05-EventHandlingPropsChildren.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React06-State.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React07-AddStateToComponents.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React08-Refs.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React09-MultipleChildComponts.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React10-UpdateStateRemovingComponents.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React11-PassFunctionAsProps.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/react/React12-AddNewComment.js">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/main.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/charts/_bar.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_accordion.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_blockquote.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_breadcrumbs.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_buttons.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_forms.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_headings.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_master.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_media_objects.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_modal.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_navigation.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_notifications.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_pagination.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_panels.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_pricing_tables.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_progress_bars.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_tables.scss">
+      <publishTime>11/19/2017 17:59:25</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_tabs.scss">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_text.scss">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/themes/default/_variables.scss">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/_grid.scss">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/scss/_normalize.scss">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/00/component.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/00/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/01/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/02/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/03/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/04/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/05/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/06/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/07/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/08/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/09/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/10/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/11/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
+    <File Include="PlutoSolutions/template/12/index.html">
+      <publishTime>11/19/2017 17:59:26</publishTime>
+    </File>
     <File Include="Scripts/bootstrap.js">
       <publishTime>11/19/2017 13:16:59</publishTime>
     </File>
