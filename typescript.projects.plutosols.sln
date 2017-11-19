@@ -24,13 +24,72 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "typescript.plutosols", "typ
 		SlnRelativePath = "typescript.plutosols\"
 	EndProjectSection
 EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "typescript.angular.plutosols", "typescript.angular.plutosols\", "{0E46A06D-2451-4F4C-8BE3-39A5068570A0}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51497"
+		Debug.AspNetCompiler.PhysicalPath = "typescript.angular.plutosols\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51497\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51497"
+		Release.AspNetCompiler.PhysicalPath = "typescript.angular.plutosols\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51497\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51497"
+		SlnRelativePath = "typescript.angular.plutosols\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reactjs.mvc.plutosols", "reactjs.mvc.plutosols\reactjs.mvc.plutosols.csproj", "{E5C51AEE-5C8A-4D8B-8357-864DA7868F3B}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "reactjs.review.plutosols", "reactjs.review.plutosols\", "{664747CC-9F8B-4985-A2CC-25680AB01BDA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51732"
+		Debug.AspNetCompiler.PhysicalPath = "reactjs.review.plutosols\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51732\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51732"
+		Release.AspNetCompiler.PhysicalPath = "reactjs.review.plutosols\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51732\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51732"
+		SlnRelativePath = "reactjs.review.plutosols\"
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{7E9039B1-274E-45B8-AF29-CA3C9DE5E89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7E9039B1-274E-45B8-AF29-CA3C9DE5E89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E9039B1-274E-45B8-AF29-CA3C9DE5E89D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E9039B1-274E-45B8-AF29-CA3C9DE5E89D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{0E46A06D-2451-4F4C-8BE3-39A5068570A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E46A06D-2451-4F4C-8BE3-39A5068570A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E46A06D-2451-4F4C-8BE3-39A5068570A0}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E46A06D-2451-4F4C-8BE3-39A5068570A0}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{E5C51AEE-5C8A-4D8B-8357-864DA7868F3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C51AEE-5C8A-4D8B-8357-864DA7868F3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C51AEE-5C8A-4D8B-8357-864DA7868F3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C51AEE-5C8A-4D8B-8357-864DA7868F3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664747CC-9F8B-4985-A2CC-25680AB01BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664747CC-9F8B-4985-A2CC-25680AB01BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664747CC-9F8B-4985-A2CC-25680AB01BDA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{664747CC-9F8B-4985-A2CC-25680AB01BDA}.Release|Any CPU.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
